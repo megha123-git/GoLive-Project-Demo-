@@ -6,3 +6,4 @@ Project Lead - Syamala Bantupalli
 Senior QA - Megha Upadhayay
 <br>
 Junior QA - Anurag Padiyar 
+Module Lead - Apurva Choudhary 
